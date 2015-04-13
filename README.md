@@ -3,7 +3,7 @@ Leetcode Algorithms Problems Solving
 
 - [1. Two Sum](content/01.md)
 - [2. Add Two Numbers](content/02.md)
-- 7. Reverse Integer
+- [7. Reverse Integer](content/07.md)
 - 50. Pow(x, n)
 - 125. Valid Palindrome
 - 141. Linked list Cycle
