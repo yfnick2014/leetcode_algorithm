@@ -1,5 +1,5 @@
 # leetcode_algorithm
-Leetcode Algorithms Problems
+Leetcode Algorithms Problems Solving
 
 - [1. Two Sum](content/01.md)
 - 2. Add Two Numbers
