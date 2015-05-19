@@ -3,6 +3,7 @@ Leetcode Algorithms Problems Solving
 
 - [1. Two Sum](content/01.md)
 - [2. Add Two Numbers](content/02.md)
+- [3. Longest Substring Without Repeating Characters](content/03.md)
 - [7. Reverse Integer](content/07.md)
 - 50. Pow(x, n)
 - 125. Valid Palindrome
